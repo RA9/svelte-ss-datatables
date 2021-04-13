@@ -1,0 +1,47 @@
+{
+  "messages": {
+    "count": 2,
+    "rows": [
+      {
+        "outgoing_message_id": "32c65950-c4ba-4d26-a464-335a3bb2445d",
+        "outgoing_message": {
+          "message": "Go home, firstname!",
+          "created_at": "2021-04-07T20:50:31.973Z",
+          "user": {
+            "id": "413d1070-f7ec-420a-931d-d761a3ed74ca",
+            "username": "carlos"
+          }
+        },
+        "status": {
+          "name": "pending"
+        },
+        "msisdn": {
+          "id": "b9347d4c-8a50-4385-985f-b09b7add329e",
+          "msisdn": "0778415037"
+        }
+      },
+      {
+        "outgoing_message_id": "32c65950-c4ba-4d26-a464-335a3bb2445d",
+        "outgoing_message": {
+          "message": "Go home, firstname!",
+          "created_at": "2021-04-07T20:50:31.973Z",
+          "user": {
+            "id": "413d1070-f7ec-420a-931d-d761a3ed74ca",
+            "username": "carlos"
+          }
+        },
+        "status": {
+          "name": "pending"
+        },
+        "msisdn": {
+          "id": "ed72dd28-3e9a-4583-b4cc-5cf9bc2ea518",
+          "msisdn": "0776728619"
+        }
+      }
+    ]
+  },
+  "current_page": 0,
+  "page_start": 0,
+  "page_end": 0,
+  "total_records": 2
+}
